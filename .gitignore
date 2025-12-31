@@ -1,2 +1,4 @@
 *.csv
+*.zip
 .DS_Store
+/lstm_ppo_trader
